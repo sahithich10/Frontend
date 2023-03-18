@@ -1,0 +1,67 @@
+
+.c1
+{
+   height: 20px;
+   width: 100%;
+    border: 20px blue;
+    padding:10px;
+    background-color: grey;
+
+}
+.c
+{
+   columns:3;
+
+}
+.c2
+{
+   height: 20px;
+   width: 100%;
+    border: 20px blue;
+    padding:10px;
+    background-color: grey;
+
+}
+.c3
+{
+   height: 100px;
+   width: 100%;
+    border: 20px blue;
+    padding-block:40%;
+    background-color: grey;
+    text-align: center;
+
+}
+.c4
+{
+   height: 100px;
+   width: 100%;
+    border: 20px blue;
+    padding-block:40%;
+    text-align: center;
+    background-color: grey;
+
+
+}
+.c5
+{
+   height: 100px;
+   width: 100%;
+    border: 20px blue;
+    padding-block:40%;
+    background-color: grey;
+    text-align: center;
+
+}
+.c6
+{
+   height: 20px;
+   width: 100%;
+    border: 20px blue;
+    padding:10px;
+    background-color: grey;
+
+}
+
+
+
